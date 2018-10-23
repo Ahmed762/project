@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: ConsoleApplication1, Configuration: Debug Win32 ------
+1>ConsoleApplication1.cpp
+1>c:\users\msi\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(83): warning C4101: 'n': unreferenced local variable
+1>c:\users\msi\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(41): warning C4715: 'TenToNinetene': not all control paths return a value
+1>c:\users\msi\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4715: 'ZeroToNine': not all control paths return a value
+1>c:\users\msi\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): warning C4715: 'TwentyToNinty': not all control paths return a value
+1>ConsoleApplication1.vcxproj -> C:\Users\msi\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+1>Done building project "ConsoleApplication1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
